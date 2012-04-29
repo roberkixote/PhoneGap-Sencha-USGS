@@ -13,3 +13,4 @@ Ready for https://build.phonegap.com/
 
 # update 29/4/2012
 
+# e-mail: roberto.pelaez.fernandez@gmail.com

@@ -24,7 +24,7 @@
     	lanzaLog("USGS: Dispositivo Phone Gap ok ----------  ");
     }
     function lanzaAPP() {
-    	lanzaLog("USGS: Dispositivo listo  ---------------------- ok ---------- Phone Gap ");
+    	lanzaLog("USGS: Dispositivo listo para PhoneGap ");
         //usgs.launch();
     }
 
