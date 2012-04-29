@@ -1,0 +1,10 @@
+#application.css
+.x-tabbar {
+    padding-top: 6px !important;
+    border-bottom: 1px solid #306aa1 !important;
+}
+
+.usgsMapInfoWindow {
+    font-size: 6px;
+}
+
