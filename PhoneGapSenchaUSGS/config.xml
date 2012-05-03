@@ -3,12 +3,12 @@
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kixoft.examples.usgs"
 	versionCode = "30"
-	version 	= "3.0.00"> 
+	version 	= "3.0.10"> 
 
 	<name>iUSGS</name>
 
 	<description>
-		Example of PhoneGap and Sencha 2: USGS Earthquake (update 3/mayo/2012 19:00).
+		Example of PhoneGap and Sencha 2: USGS Earthquake (update 3/mayo/2012 19:30).
 	</description>
 
 	<author href="https://sites.google.com/site/roberkixote/"
@@ -47,16 +47,14 @@
 	<gap:splash src="splash/ios/Default-Landscape.png" width="1024" height="768" />
 	<gap:splash src="splash/ios/Default-Portrait.png" width="768" height="1024" />
 
-	<gap:splash src="splash/android/splash-ldpi.png" gap:platform="android" gap:density="ldpi" />
-	<gap:splash src="splash/android/splash-mdpi.png" gap:platform="android" gap:density="mdpi" />
-	<gap:splash src="splash/android/splash-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="splash/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<gap:splash src="splash/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="splash/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
 
 	<gap:splash src="splash/bb/splash.png" gap:platform="blackberry" />
 
 	<gap:splash src="splash/winphone/splash.jpg" gap:platform="winphone" />
 
-	
-		
 	<feature name="http://api.phonegap.com/1.0/camera"/>
 	<feature name="http://api.phonegap.com/1.0/contacts"/>
 	<feature name="http://api.phonegap.com/1.0/file"/>
